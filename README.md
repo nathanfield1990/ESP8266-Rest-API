@@ -1,8 +1,9 @@
 # Arduino-CW-API-Example
 REST API usage using an ESP8266
 
+Using an ESP8266 and connecting to Wi-Fi it uses a API GET request to a public server that allows for tracking of both a public IP (provided) and your own IP address (using whatsmyip.com or equivalent)
 
+See comments in code for more information, and enjoy :)
 
 # TODO
-- Write POST and or PUT to allow for local sensor information such as UUID and live sensor readings to get pushes to CW blockchain 
-- This information will be packaged before being sent, and could include any type of data (local sensor) and communication information such as local comms (serial / USB) or wireless comms (MQTT/LoRaWAN)
+- Add POST functionality to ESP8266
