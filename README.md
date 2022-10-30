@@ -8,6 +8,5 @@ See comments in code for more information.
 - You must install all necessary libraries (can be installed using standard Sketch -> Include library -> Manage libraies method through Arduino IDE) 
 
 # TODO
-- Add functionality for getting the ESP8266 IP Address and then find the location for it, therefore making this modular and independant of user intervention 
 - Add POST functionality to ESP8266 code 
 
