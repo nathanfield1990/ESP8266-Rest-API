@@ -10,4 +10,6 @@ See comments in code for more information.
 # Notes
 - You must install all necessary libraries (can be installed using standard Sketch -> Include library -> Manage libraies method through Arduino IDE) 
  
+ #TODO
+ - To make this more useful, you would want to send this to your own server of choice, to store this data
 
